@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.idea/
+
+rcvlog.fmlogger.txt
+sendlog.fmlogger.txt
+
 # C extensions
 *.so
 
